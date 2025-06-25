@@ -20,7 +20,7 @@
 > - 🔗 Examples from the wild:
 >     - [Snyk Blog: Preventing SSRF in Node.js](https://snyk.io/blog/preventing-server-side-request-forgery-node-js/#:~:text=imageURL.startsWith)
 >     - [GitHub Patch (NextChat)](https://github.com/ChatGPTNextWeb/NextChat/commit/9fb8fbcc65c29c74473a13715c05725e2b49065d#:~:text=imageURL.startsWith)
->     - [GHSA Advisory](https://github.com/ChatGPTNextWeb/NextChat/commit/9fb8fbcc65c29c74473a13715c05725e2b49065d#diff-bd6b7cecf2582e3b8c10495081d2086ed3d88df53983cea5e1f8344becb06a7aR42)
+>     - [GHSA Advisory](https://github.com/advisories/GHSA-2p68-f74v-9wc6)
 >
 > 📌 There is no silver bullet. Not in folklore. Not in security. We must stop treating patching as a checkbox. Security isn’t a one-liner — it’s a process: Think. Test. Break. Fix. Repeat.
 >
