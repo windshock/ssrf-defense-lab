@@ -24,7 +24,7 @@
 >
 > 📌 There is no silver bullet. Not in folklore. Not in security. We must stop treating patching as a checkbox. Security isn’t a one-liner — it’s a process: Think. Test. Break. Fix. Repeat.
 >
-> 📘 Full writeup: [windshock.github.io SSRF defense post](https://windshock.github.io/posts/2025-06-25-ssrf-defense/)
+> 📘 Full writeup: [windshock.github.io SSRF defense post](https://windshock.github.io/en/post/2025-06-25-ssrf-defense/)
 >
 > #SSRF #AppSec #DevSecOps #NoSilverBullet #axios #SecureCoding
 
@@ -57,11 +57,11 @@ npm test
 - Redirects from whitelisted domains to malicious targets
 
 ## References
-- [Silver Bullet – Archive.org](https://archive.org/details/SilverBullet)
-- [windshock.github.io SSRF defense post](https://windshock.github.io/posts/ssrf-defense/)
-- [Snyk Blog: Preventing SSRF in Node.js](https://snyk.io/blog/preventing-ssrf-node-js/)
-- [GitHub Patch (NextChat)](https://github.com/Chanzhaoyu/chatgpt-next-web/pull/5799)
-- [GHSA Advisory](https://github.com/advisories/GHSA-2p68-f74v-9wc6)
+- [Silver Bullet – Archive.org](https://archive.org/details/silverbulletothe0000unse)
+- [windshock.github.io SSRF defense post](https://windshock.github.io/en/post/2025-06-25-ssrf-defense/)
+- [Snyk Blog: Preventing SSRF in Node.js](hhttps://snyk.io/blog/preventing-server-side-request-forgery-node-js/#:~:text=imageURL.startsWith)
+- [GitHub Patch (NextChat)](https://github.com/ChatGPTNextWeb/NextChat/commit/9fb8fbcc65c29c74473a13715c05725e2b49065d#:~:text=imageURL.startsWith)
+- [GHSA Advisory](https://github.com/ChatGPTNextWeb/NextChat/commit/9fb8fbcc65c29c74473a13715c05725e2b49065d#diff-bd6b7cecf2582e3b8c10495081d2086ed3d88df53983cea5e1f8344becb06a7aR42)
 
 ---
 
