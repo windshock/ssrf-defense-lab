@@ -4,7 +4,7 @@
 >
 > 🔫 In 1765, the people of Gévaudan fired silver bullets at a beast. They believed it would stop what ordinary lead could not. But the monster didn’t die. The myth of the silver bullet — a single, simple fix to vanquish evil — is centuries old. It lives on in cybersecurity, where we still chase “one clean line of code” to stop complex threats. But just like in the 18th century: it doesn’t exist.
 >
-> 🕵️‍♂️ More: [Silver Bullet – Archive.org](https://archive.org/details/SilverBullet)
+> 🕵️‍♂️ More: [Silver Bullet – Archive.org](https://archive.org/details/silverbulletothe0000unse)
 >
 > 🧪 I reviewed recent SSRF “fixes” shared across the web. From popular blog posts to GitHub advisories — many had one thing in common: they failed.
 > - `startsWith()` checks? → ✅ Bypassed via `@` tricks
@@ -18,9 +18,9 @@
 > - 🔒 Redirect prevention
 > - 🛠️ Interceptors with enforced hostname whitelists
 > - 🔗 Examples from the wild:
->     - [Snyk Blog: Preventing SSRF in Node.js](https://snyk.io/blog/preventing-ssrf-node-js/)
->     - [GitHub Patch (NextChat)](https://github.com/Chanzhaoyu/chatgpt-next-web/pull/5799)
->     - [GHSA Advisory](https://github.com/advisories/GHSA-2p68-f74v-9wc6)
+>     - [Snyk Blog: Preventing SSRF in Node.js](https://snyk.io/blog/preventing-server-side-request-forgery-node-js/#:~:text=imageURL.startsWith)
+>     - [GitHub Patch (NextChat)](https://github.com/ChatGPTNextWeb/NextChat/commit/9fb8fbcc65c29c74473a13715c05725e2b49065d#:~:text=imageURL.startsWith)
+>     - [GHSA Advisory](https://github.com/ChatGPTNextWeb/NextChat/commit/9fb8fbcc65c29c74473a13715c05725e2b49065d#diff-bd6b7cecf2582e3b8c10495081d2086ed3d88df53983cea5e1f8344becb06a7aR42)
 >
 > 📌 There is no silver bullet. Not in folklore. Not in security. We must stop treating patching as a checkbox. Security isn’t a one-liner — it’s a process: Think. Test. Break. Fix. Repeat.
 >
