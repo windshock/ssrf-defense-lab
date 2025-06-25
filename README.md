@@ -59,7 +59,7 @@ npm test
 ## References
 - [Silver Bullet – Archive.org](https://archive.org/details/silverbulletothe0000unse)
 - [windshock.github.io SSRF defense post](https://windshock.github.io/en/post/2025-06-25-ssrf-defense/)
-- [Snyk Blog: Preventing SSRF in Node.js](hhttps://snyk.io/blog/preventing-server-side-request-forgery-node-js/#:~:text=imageURL.startsWith)
+- [Snyk Blog: Preventing SSRF in Node.js](https://snyk.io/blog/preventing-server-side-request-forgery-node-js/#:~:text=imageURL.startsWith)
 - [GitHub Patch (NextChat)](https://github.com/ChatGPTNextWeb/NextChat/commit/9fb8fbcc65c29c74473a13715c05725e2b49065d#:~:text=imageURL.startsWith)
 - [GHSA Advisory](https://github.com/ChatGPTNextWeb/NextChat/commit/9fb8fbcc65c29c74473a13715c05725e2b49065d#diff-bd6b7cecf2582e3b8c10495081d2086ed3d88df53983cea5e1f8344becb06a7aR42)
 
